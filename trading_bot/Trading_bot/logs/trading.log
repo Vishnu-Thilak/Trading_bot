@@ -1,0 +1,6 @@
+2026-02-20 12:58:21,687 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-20 12:58:21,690 - ERROR - Error placing order: API Secret required for private endpoints
+2026-02-20 14:36:01,665 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-20 14:36:03,967 - INFO - Response: {}
+2026-02-20 14:42:07,621 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-20 14:42:08,384 - INFO - Response: {}
